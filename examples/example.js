@@ -1,4 +1,4 @@
-// CommonJS example
+// CommonJS Jaml example
 
 var Jaml = require("jaml").Jaml;
 
